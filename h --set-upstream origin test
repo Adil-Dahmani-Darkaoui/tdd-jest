@@ -1,0 +1,124 @@
+[33mcommit c3ae007693f71e7defd76be67d9a2eda28afc9df[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+Author: Adil D.Dark <adil.dahmani-darkaoui@le-campus-numerique.fr>
+Date:   Wed Aug 26 16:11:10 2020 +0200
+
+    tets2
+
+[33mcommit 1c125ffbe69db000b517402664d1b4b7a0e94de2[m[33m ([m[1;31morigin/test[m[33m)[m
+Author: Adil D.Dark <adil.dahmani-darkaoui@le-campus-numerique.fr>
+Date:   Wed Aug 26 16:04:58 2020 +0200
+
+    test
+
+[33mcommit 7a554fd5045bb434864274af8e1535f4e78dd8e7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Jean-Baptiste Vilain <jbvilain@gmail.com>
+Date:   Tue Aug 25 22:58:22 2020 +0200
+
+    added travis ci file
+
+[33mcommit 86d46010ae578862d8f83b1e6b0225b60d445895[m
+Author: Jean-Baptiste Vilain <jbvilain@gmail.com>
+Date:   Tue Aug 25 22:30:25 2020 +0200
+
+    added travis ci file
+
+[33mcommit 4d09b29c3b03cb35fad34ef011df37a77d4e89cf[m
+Merge: b38926a 04c39cc
+Author: Jean-Baptiste <jbvilain@gmail.com>
+Date:   Tue Aug 25 16:18:20 2020 +0200
+
+    Merge pull request #3 from jeanbaptistevilain/dependabot/npm_and_yarn/lodash-4.17.19
+    
+    Bump lodash from 4.17.15 to 4.17.19
+
+[33mcommit b38926a744bee2a17e09dc8de67c325caf1381eb[m
+Merge: b98f8e9 8085e16
+Author: Jean-Baptiste <jbvilain@gmail.com>
+Date:   Tue Aug 25 16:17:55 2020 +0200
+
+    Merge pull request #2 from jeanbaptistevilain/dependabot/npm_and_yarn/acorn-5.7.4
+    
+    Bump acorn from 5.7.3 to 5.7.4
+
+[33mcommit b98f8e9215776a6a468deb28ffc54d9031b5b1c8[m
+Merge: 184cf0f f301630
+Author: Jean-Baptiste <jbvilain@gmail.com>
+Date:   Tue Aug 25 16:17:32 2020 +0200
+
+    Merge pull request #1 from jeanbaptistevilain/dependabot/npm_and_yarn/handlebars-4.5.3
+    
+    Bump handlebars from 4.2.0 to 4.5.3
+
+[33mcommit 04c39cc7c975177087b3ec070f8798dde91e0250[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Jul 18 08:08:34 2020 +0000
+
+    Bump lodash from 4.17.15 to 4.17.19
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 8085e1602baee1af6caee02d390b9a536a7d4c96[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 16 12:57:36 2020 +0000
+
+    Bump acorn from 5.7.3 to 5.7.4
+    
+    Bumps [acorn](https://github.com/acornjs/acorn) from 5.7.3 to 5.7.4.
+    - [Release notes](https://github.com/acornjs/acorn/releases)
+    - [Commits](https://github.com/acornjs/acorn/compare/5.7.3...5.7.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit f301630e26b14eaff22706761a615804e5ba9bf5[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 30 01:22:56 2019 +0000
+
+    Bump handlebars from 4.2.0 to 4.5.3
+    
+    Bumps [handlebars](https://github.com/wycats/handlebars.js) from 4.2.0 to 4.5.3.
+    - [Release notes](https://github.com/wycats/handlebars.js/releases)
+    - [Changelog](https://github.com/wycats/handlebars.js/blob/master/release-notes.md)
+    - [Commits](https://github.com/wycats/handlebars.js/compare/v4.2.0...v4.5.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 184cf0fae0e3b799d3be28fa4495250147f34365[m
+Author: Jean-Baptiste Vilain <jbvilain@gmail.com>
+Date:   Fri Sep 20 10:40:15 2019 +0200
+
+    added travis ci file
+
+[33mcommit 4019749e0f3d18e924f88d0cb7f84c496e7111fc[m
+Author: Jean-Baptiste <jbvilain@gmail.com>
+Date:   Fri Sep 20 10:29:54 2019 +0200
+
+    Update README.md
+
+[33mcommit d510cb72f29455cf9881905d584afefac9b7d0b7[m
+Merge: d8241e6 0467125
+Author: Jean-Baptiste Vilain <jbvilain@gmail.com>
+Date:   Fri Sep 20 10:26:34 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit d8241e6db9ae77274ad8f3b4a2c2f3ed501710ce[m
+Author: Jean-Baptiste Vilain <jbvilain@gmail.com>
+Date:   Fri Sep 20 10:26:23 2019 +0200
+
+    added travis ci file
+
+[33mcommit 0467125655a7d8538504965ffca01d3165741399[m
+Author: Jean-Baptiste <jbvilain@gmail.com>
+Date:   Fri Sep 20 00:00:07 2019 +0200
+
+    Update README.md
+
+[33mcommit 9d202a99c532a8676dd7f453eb6f2bef3c9ff649[m
+Author: Jean-Baptiste Vilain <jbvilain@gmail.com>
+Date:   Thu Sep 19 23:45:52 2019 +0200
+
+    Initial commit
